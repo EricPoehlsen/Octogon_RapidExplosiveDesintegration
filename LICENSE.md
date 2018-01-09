@@ -15,6 +15,8 @@ The graphics and artwork (models and textures) should not be reused for other mo
 The **Octogon Group** and it's subsidiaries are a fictional corporation that I do use in stories and role-playing games. All rights reserved in that area of the mod (including the in game fluff texts and logos). In the context of Kerbal Space Program I introduce the company as manufacturer of the parts I am modding. Please do not reuse the name or logos for your parts. 
 
 ## What in means in Terms of standard licenses?
-Code: WTFPL / CC-0
+Code: CC-0 / WTFPL
+
 Graphic Assets: CC-BY-NC-ND 3.0
+
 Octogon Group: (C)
